@@ -15,7 +15,7 @@ public class Instructors {
     Instructor instructor3 = new Instructor("Shivam",11,"SDE","M",
                 true,List.of("Java","C++"));
 
-    Instructor instructor4 = new Instructor("Stuti",1,"SDE","M",
+    Instructor instructor4 = new Instructor("Stuti",1,"SDE","F",
                 false,List.of("Ruby","Angular"));
 
     return List.of(instructor1,instructor2,instructor3,instructor4);
