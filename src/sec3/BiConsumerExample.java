@@ -4,7 +4,7 @@ import java.util.function.BiConsumer;
 
 public class BiConsumerExample {
 
-    // its same as consumer it takes two arguments and process it but doest return anything
+
 
     public static void main(String[] args) {
 
